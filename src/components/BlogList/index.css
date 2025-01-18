@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.list-con{
+    display:flex;
+    flex-direction:column;
+    width:90vw;
+    min-height:60vh;
+    margin:5px;
+    align-items: center;
+    
+}
